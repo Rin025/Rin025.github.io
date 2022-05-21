@@ -129,10 +129,10 @@ input {
   margin-top: 3%;
   text-align: center;
 }
-.bron:hover, .bron_nes:hover, .oform:hover, .otp:hover {
+.bron:hover, .bron_nes:hover, .oform:hover, .otp:hover, {
   background-color: #1c6eb6;
 }
-.oform a:active, .oform a:hover, .oform a:visited, .oform a:link {
+.bron_nes a:active, .bron_nes a:hover, .bron_nes a:visited, .bron_nes a:link, .oform a:active, .oform a:hover, .oform a:visited, .oform a:link {
   text-decoration: none;
   color: white;
 }
